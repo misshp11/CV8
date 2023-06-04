@@ -1,4 +1,4 @@
-# Computer Vision Задание 2
+# Computer Vision Задание 8
 Была развёрнута нейросеть Easy Diffusion  
 Использовались для генерации изображений такие модели как:  
 1. Stable Diffusion_v1.4  
